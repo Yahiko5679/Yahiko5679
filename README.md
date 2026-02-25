@@ -1,14 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=YAHIKO&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=━━━━━━━━━━━━━━━━━━━━━━━━&descSize=13&descAlignY=66&descFontColor=333333" width="100%"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1100&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;html+%E2%80%94+building+up+%7C+python+%E2%80%94+growing;java%3F+someday.+not+today+%F0%9F%91%80;the+grind+is+quiet+but+real+%F0%9F%8C%91)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d0b5e,100:0d0d0d&height=240&section=header&text=YAHIKO&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=✦+Watching+anime.+Touching+grass.+Writing+code.+✦&descSize=16&descAlignY=70&descFontColor=777777" width="100%"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,python&theme=dark" height="42"/>
+<div align="center">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I%27m+Yahiko+%F0%9F%91%8B;manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;currently+learning+HTML+%26+Python;the+grind+never+stops+%F0%9F%8C%99)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,68 +12,81 @@
 
 ---
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="60%" valign="top">
+<br/>
 
-### ☕ &nbsp;About Me
+## ☕ About Me
 
-> Hey, I'm **Yahiko**. My hobbies include reading manga/manhwa, watching anime,
-> and occasionally gaming random stuff — like touching the grass. 🌿
+<img src="https://raw.githubusercontent.com/Yahiko5679/Yahiko5679/main/img/Yahiko.jpg" width="100%" alt="Yahiko"/>
 
-`📖` manga / manhwa &nbsp;·&nbsp; `🎌` anime &nbsp;·&nbsp; `🎮` gaming &nbsp;·&nbsp; `🌿` grass *(rarely)*
+<br/>
 
-</td>
-<td width="40%" align="center" valign="middle">
+> Just a guy who spends his nights deep in manga rabbit holes, binge-watching anime arcs,
+> and occasionally picking up a controller. Sometimes I touch grass. Rarely. 🌿
+> Oh — and I write code now.
 
-<img src="https://raw.githubusercontent.com/Yahiko5679/Yahiko5679/main/img/Yahiko.jpg" width="220" alt="Yahiko"/>
+<br/>
 
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 📡 &nbsp;GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=7C3AED&text_color=BBBBBB&count_private=true&include_all_commits=true&custom_title=Yahiko's+Activity" height="155"/>
+**Currently learning →**&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiko5679&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=BBBBBB&langs_count=4" height="155"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Yahiko5679&theme=transparent&hide_border=true&ring=7C3AED&fire=FF4757&currStreakLabel=7C3AED&background=0D0D0D&dates=555555&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=BBBBBB" width="460"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=0D0D0D&color=7C3AED&line=7C3AED&point=ffffff&area=true&area_color=1e0a3e&hide_border=true&radius=4" width="97%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔗 &nbsp;Find Me
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+&nbsp;
+![Java](https://img.shields.io/badge/Java-future-555555?style=flat-square&logo=openjdk&logoColor=white)
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)&nbsp;
+---
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&icon_color=9D4EDD&text_color=cccccc&count_private=true&include_all_commits=true&custom_title=Yahiko%27s+Activity&ring_color=9D4EDD"/>
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiko5679&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&text_color=cccccc&langs_count=6&card_width=300"/>
+
+<br/><br/>
+
+<img width="500" src="https://streak-stats.demolab.com?user=Yahiko5679&theme=transparent&hide_border=true&ring=9D4EDD&fire=ff4757&currStreakLabel=9D4EDD&background=0d0d0d&dates=666666&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=0d0d0d&color=9D4EDD&line=9D4EDD&point=ffffff&area=true&area_color=2d0b5e&hide_border=true&radius=6"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🔗 Find Me
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yahiko5679)
 
 <br/><br/>
 
-![Visitors](https://count.getloli.com/get/@Yahiko5679?theme=rule34)
+![Visitor Count](https://count.getloli.com/get/@Yahiko5679?theme=rule34)
 
 <br/>
 
 *hehe~ caught you lurking 😏*
 
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d0b5e,100:0d0d0d&height=140&section=footer&animation=fadeIn" width="100%"/>
