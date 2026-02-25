@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E91E63,100:000000&height=240&section=header&text=Yahiko%20%3C%2F%3E&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=70&descFontColor=aaaaaa"width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E91E63,100:000000&height=240&section=header&text=Yahiko%20%3C%2F%3E&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=70&descFontColor=aaaaaa" width="100%"/>
+
 
 <br/>
 
