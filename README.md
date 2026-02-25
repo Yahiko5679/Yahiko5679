@@ -4,9 +4,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+my+self+Yahiko+%3B;I%27m+Not+a+Developer+Yet+%3B;Manga+%2F+Manhwa+%2F+Anime+Fan+%3B)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=45&lines=currently+learning+HTML+%26+Python;the+grind+is+quiet+but+real+%F0%9F%8C%99;java%3F+someday.+not+today+%F0%9F%91%80)](https://git.io/typing-svg)
+<!-- Animated red typing text like ProYato -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I%27m+Yahiko+%F0%9F%91%8B;Not+a+Developer+—+yet.;manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;Currently+learning+HTML+%26+Python+%F0%9F%90%9B;Java%3F+Future+me's+problem+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,17 +21,17 @@
 
 <br/>
 
-> Just a guy who spends his nights deep in manga rabbit holes, binge-watching anime arcs,
+> Just a guy who spends his nights deep in manga rabbit holes, binge-watching anime,
 > and occasionally picking up a controller. Sometimes I touch grass. Rarely. 🌿
 > Oh — and I write code now.
 
 <br/>
 
-**Currently learning →**
+**Stack →**
 
-<img src="https://skillicons.dev/icons?i=html,python&theme=dark" height="50"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" title="Java — on the roadmap 👀" style="opacity:0.35;filter:grayscale(80%)"/>
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Yahiko5679)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Yahiko5679)
+[![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Yahiko5679)
 
 <br/>
 
@@ -46,9 +45,10 @@
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&icon_color=9D4EDD&text_color=cccccc&count_private=true&include_all_commits=true&custom_title=Yahiko%27s+Activity&ring_color=9D4EDD"/>
+<!-- Using stats.hyochan.dev as reliable alternative -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&icon_color=9D4EDD&text_color=cccccc&count_private=true&include_all_commits=true&custom_title=Yahiko%27s+Activity&ring_color=9D4EDD&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiko5679&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&text_color=cccccc&langs_count=6&card_width=300"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiko5679&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&text_color=cccccc&langs_count=6&card_width=300&cache_seconds=1800"/>
 
 <br/><br/>
 
