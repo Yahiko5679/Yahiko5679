@@ -101,9 +101,9 @@
 
 ## 🧠 Code Philosophy
 
-> “Silence the noise. Build the system.”  
+> “Progress isn’t loud. It’s consistent.”
 >  
-> — Yahiko
+> —— Yahiko
 
 <br/>
 
