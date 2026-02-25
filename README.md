@@ -2,7 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=7C3AED&center=true&vCenter=true&width=520&height=38&lines=manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;html+%26+python+%7C+one+bug+at+a+time+%F0%9F%90%9B;the+grind+is+quiet+but+real+%F0%9F%8C%91)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=7C3AED&center=true&vCenter=true&width=560&height=38&lines=manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;html+%E2%80%94+building+up+%7C+python+%E2%80%94+still+growing;java%3F+someday.+not+today+%F0%9F%91%80;the+grind+is+quiet+but+real+%F0%9F%8C%91)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,python&theme=dark" height="42"/>
+
+
 
 </div>
 
@@ -16,26 +22,10 @@
 
 ### ☕ &nbsp;About Me
 
-> Hey, I'm **Yato**. My hobbies include reading manga/manhwa, watching anime,
+> Hey, I'm **Yahiko**. My hobbies include reading manga/manhwa, watching anime,
 > and occasionally gaming random stuff — like touching the grass. 🌿
 
-<br/>
-
-### 🌱 &nbsp;Currently Learning
-
-<img src="https://skillicons.dev/icons?i=html,python&theme=dark" height="40"/>
-
-```
-  html    ████████░░   building up
-  python  ██████░░░░   still growing
-  java    ░░░░░░░░░░   on the roadmap 👀
-```
-
-<br/>
-
-### 🎮 &nbsp;Also Into
-
-`📖` manga / manhwa &nbsp;·&nbsp; `🎌` anime &nbsp;·&nbsp; `🎮` gaming &nbsp;·&nbsp; `🌿` touching grass *(rarely)*
+`📖` manga / manhwa &nbsp;·&nbsp; `🎌` anime &nbsp;·&nbsp; `🎮` gaming &nbsp;·&nbsp; `🌿` grass *(rarely)*
 
 </td>
 <td width="40%" align="center" valign="middle">
