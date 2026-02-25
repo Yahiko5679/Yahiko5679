@@ -4,7 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I%27m+Yahiko+%F0%9F%91%8B;manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;currently+learning+HTML+%26+Python;the+grind+never+stops+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+my+self+Yahiko+%3B;I%27m+Not+a+Developer+Yet+%3B;Manga+%2F+Manhwa+%2F+Anime+Fan+%3B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=45&lines=currently+learning+HTML+%26+Python;the+grind+is+quiet+but+real+%F0%9F%8C%99;java%3F+someday.+not+today+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,12 +28,11 @@
 
 <br/>
 
-**Currently learning →**&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Currently learning →**
+
+<img src="https://skillicons.dev/icons?i=html,python&theme=dark" height="50"/>
 &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;
-![Java](https://img.shields.io/badge/Java-future-555555?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" title="Java — on the roadmap 👀" style="opacity:0.35;filter:grayscale(80%)"/>
 
 <br/>
 
