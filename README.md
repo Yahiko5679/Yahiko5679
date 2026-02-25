@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=240&section=header&text=YAHIKO&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Automation+Empire+In+Progress&descSize=16&descAlignY=70&descFontColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=240&section=header&text=YAHIKO&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=70&descFontColor=aaaaaa" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=60&lines=Telegram+Automation+Architect;Bot+Infrastructure+Builder;Anime+%E2%80%A2+Systems+%E2%80%A2+Discipline;Scaling+One+System+At+A+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=60&lines=Automation+Focused+Builder;Telegram+Bot+Developer;Anime+%E2%80%A2+Systems+%E2%80%A2+Consistency;Learning+Relentlessly+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,34 +12,38 @@
 
 ---
 
-# ⚙ Empire Status
+## ☕ About Me
+
+<img src="https://raw.githubusercontent.com/Yahiko5679/Yahiko5679/main/img/Yahiko.jpg" width="100%" alt="Yahiko"/>
+
+<br/>
+
+> Built in silence.  
+> Refined through repetition.  
+>  
+> I build Telegram automation systems,  
+> structure bots like products,  
+> and debug until systems obey.  
+>  
+> Discipline > Motivation.
+
+<br/>
+
+---
+
+## ⚙ System Status
 
 <div align="center">
 
-![Bot Uptime](https://img.shields.io/badge/Bot_Uptime-24/7_Operational-success?style=for-the-badge&logo=server&logoColor=white)
-
-![Active Projects](https://img.shields.io/badge/Projects-Infrastructure_Level-red?style=for-the-badge)
-
-![Focus](https://img.shields.io/badge/Focus-Automation_Systems-black?style=for-the-badge)
+![Bot Uptime](https://img.shields.io/badge/Bot_Uptime-24/7-success?style=for-the-badge&logo=server&logoColor=white)
 
 </div>
 
----
-
-## ☕ About The Architect
-
-> I build Telegram automation systems.  
-> I structure bots like products.  
-> I scale ideas into infrastructure.  
->  
-> Anime fuels creativity.  
-> Discipline fuels execution.  
->  
-> Motivation fades. Systems stay.
+<br/>
 
 ---
 
-## 🛠 Core Infrastructure
+## 💻 Core Stack
 
 ### 🚀 Languages
 
@@ -47,9 +51,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+<br/>
 
-### 🤖 Telegram Automation Stack
+### 🤖 Telegram Automation
 
 ![Pyrofork](https://img.shields.io/badge/Pyrofork-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
@@ -57,33 +61,37 @@
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
+<br/>
+
 ---
 
-## 🧠 Active Systems
+## 🛠 Active Projects
 
 - 🔥 Premium Auto Rename Bot  
-- 📡 Anime Auto Poster Infrastructure  
+- 📡 Anime Auto Poster Bot  
 - 🎛 Token-Based Access System  
-- 🧩 Modular Bot Architecture  
-- 📊 Logging + Dump Channel System  
+- 📦 Modular Telegram Infrastructure  
+
+<br/>
 
 ---
 
-## 🎯 2026 Expansion Plan
+## 🎯 2026 Focus
 
-- 🚀 Multi-Bot Deployment Network  
-- 🧠 Advanced Backend Scaling  
-- ⚙ Centralized Bot Management Panel  
-- 📦 Production-Grade Automation Framework  
-- 🌍 Open Source Contribution  
+- 🚀 Production-Ready Deployments  
+- ⚙ Cleaner Modular Architecture  
+- 📊 Advanced Logging & System Control  
+- 🧠 Deep Backend Knowledge  
+
+<br/>
 
 ---
 
-## 📊 Empire Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=cccccc&count_private=true&include_all_commits=true&custom_title=Automation+Empire+Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=cccccc&count_private=true&include_all_commits=true"/>
 
 <br/><br/>
 
@@ -93,24 +101,21 @@
 
 <img width="500" src="https://streak-stats.demolab.com?user=Yahiko5679&theme=transparent&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=000000"/>
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=FF0000&line=FF0000&point=ffffff&area=true&area_color=1a0000&hide_border=true"/>
-
 </div>
 
----
-
-## 🧭 Philosophy
-
-> “Infrastructure over impulse.”  
-> “Build once. Scale forever.”  
->  
-> — Yahiko
+<br/>
 
 ---
 
-## 🔗 Network
+## 🧠 Philosophy
+
+> “Silence the noise. Build the system.”
+
+<br/>
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
@@ -121,10 +126,6 @@
 <br/><br/>
 
 ![Visitor Count](https://count.getloli.com/get/@Yahiko5679?theme=rule34)
-
-<br/>
-
-<i>Empire under construction.</i>
 
 </div>
 
