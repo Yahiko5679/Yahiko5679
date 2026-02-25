@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=7C3AED&center=true&vCenter=true&width=560&height=38&lines=manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;html+%E2%80%94+building+up+%7C+python+%E2%80%94+still+growing;java%3F+someday.+not+today+%F0%9F%91%80;the+grind+is+quiet+but+real+%F0%9F%8C%91)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1100&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=manga+%E2%80%A2+manhwa+%E2%80%A2+anime+%E2%80%A2+code;html+%E2%80%94+building+up+%7C+python+%E2%80%94+growing;java%3F+someday.+not+today+%F0%9F%91%80;the+grind+is+quiet+but+real+%F0%9F%8C%91)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Yahiko5679/Yahiko5679/main/img/yahiko.png" width="220" alt="Yahiko"/>
+<img src="https://raw.githubusercontent.com/Yahiko5679/Yahiko5679/main/img/Yahiko.jpg" width="220" alt="Yahiko"/>
 
 </td>
 </tr>
