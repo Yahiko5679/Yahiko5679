@@ -91,7 +91,7 @@
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&area=true&area_color=330010&hide_border=true">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&area=true&hide_border=true">
 
 </p>
 
