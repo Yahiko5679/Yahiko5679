@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E91E63,100:000000&height=240&section=header&text=Yahiko%20%E2%9F%A8%2F%E2%9F%A9&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=70&descFontColor=aaaaaa" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E91E63,100:000000&height=240&section=header&text=Yahiko&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=70&descFontColor=aaaaaa" width="100%">
 
 <br>
 
@@ -87,11 +87,11 @@
 
 <br><br>
 
-<img width="500" src="https://streak-stats.demolab.com?user=Yahiko5679&theme=transparent&hide_border=true&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&background=000000">
+<img height="175" src="https://streak-stats.demolab.com?user=Yahiko5679&theme=transparent&hide_border=true&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&background=000000">
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&area=true&hide_border=true">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&hide_border=true)
 
 </p>
 
@@ -101,8 +101,7 @@
 
 ## 🧠 Code Philosophy
 
-> “Progress isn’t loud. It’s consistent.”
->  
+> “Progress isn’t loud. It’s consistent.”  
 > —— Yahiko
 
 <br>
