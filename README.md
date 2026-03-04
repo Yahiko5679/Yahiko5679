@@ -83,7 +83,7 @@
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/E91E63/Yahiko5679" width="100%" alt="Yahiko's GitHub Activity Chart">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahiko5679&theme=github_dark" width="100%">
 
 </p>
 
