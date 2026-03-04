@@ -83,7 +83,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&area=true&area_color=E91E63&hide_border=true" width="100%">
+<img src="https://ghchart.rshah.org/E91E63/Yahiko5679" width="100%" alt="Yahiko's GitHub Activity Chart">
 
 </p>
 
