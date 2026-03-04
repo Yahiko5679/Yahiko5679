@@ -25,7 +25,7 @@
 > binge anime at night,  
 > and debug until things obey.  
 >  
-> Discipline > Motivation.
+> Discipline &gt; Motivation.
 
 <br>
 
