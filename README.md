@@ -79,19 +79,11 @@
 
 <p align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yahiko5679&show_icons=true&hide_border=true&bg_color=000000&title_color=E91E63&icon_color=E91E63&text_color=cccccc&count_private=true&include_all_commits=true">
-
-<br><br>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiko5679&layout=compact&hide_border=true&bg_color=000000&title_color=E91E63&text_color=cccccc">
-
-<br><br>
-
 <img height="175" src="https://streak-stats.demolab.com?user=Yahiko5679&theme=transparent&hide_border=true&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&background=000000">
 
 <br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahiko5679&bg_color=000000&color=E91E63&line=E91E63&point=ffffff&area=true&area_color=E91E63&hide_border=true" width="100%">
 
 </p>
 
@@ -101,7 +93,7 @@
 
 ## 🧠 Code Philosophy
 
-> “Progress isn’t loud. It’s consistent.”  
+> "Progress isn't loud. It's consistent."  
 > —— Yahiko
 
 <br>
